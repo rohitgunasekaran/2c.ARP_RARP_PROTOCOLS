@@ -1,5 +1,8 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## AIM
+### NAME:G.ROHIT
+### REGISTER NUMBER:212222240083
+
+## AIM:
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
 ## Client:
@@ -17,7 +20,7 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - ARP
-![Screenshot 2024-04-07 084956](https://github.com/Akshaya-SK/2c.ARP_RARP_PROTOCOLS/assets/149347593/235d449e-d2e6-4fcb-bdb6-66c6fe605c38)
+ <img src="https://github.com/Akshaya-SK/2c.ARP_RARP_PROTOCOLS/assets/149347593/235d449e-d2e6-4fcb-bdb6-66c6fe605c38.type" width="1000" height="400">
 
 ## OUPUT - ARP
 ![Screenshot 2024-04-07 084934](https://github.com/Akshaya-SK/2c.ARP_RARP_PROTOCOLS/assets/149347593/ea23b4ad-5ee8-43ec-9a63-4db8dbefb30f)
